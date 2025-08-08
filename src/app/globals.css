@@ -2,4 +2,18 @@
 /* Custom styles */
 body {
     font-family: 'Playfair Display', serif;
+    background-color: #417b63;
+    /*background-color: #247347;*/
+    /*background-color: #005259;*/
+    /*background-color: #184a2e;*/
+}
+
+.darker-green {
+    background-color: #2c5444;
+}
+
+.alex-brush-regular {
+    font-family: "Alex Brush", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
